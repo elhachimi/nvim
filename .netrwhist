@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/wael/.flipper'
+let g:netrw_dirhist_3='/Users/wael'
+let g:netrw_dirhist_2='/Users/wael/.flipper'
+let g:netrw_dirhist_1='/Users/wael/Documents/LearnSpace/Vim'
+let g:netrw_dirhist_0='/Users/wael/Documents/LearnSpace/Vim/vim-nav-playground'
+let g:netrw_dirhist_9='/Users/wael/Documents/LearnSpace/Vim/vim-nav-playground/src'
+let g:netrw_dirhist_8='/Users/wael/Documents/LearnSpace/Vim/vim-nav-playground'
+let g:netrw_dirhist_7='/Users/wael/Documents/LearnSpace/Vim'
+let g:netrw_dirhist_6='/Users/wael/.flipper'
+let g:netrw_dirhist_5='/Users/wael'
